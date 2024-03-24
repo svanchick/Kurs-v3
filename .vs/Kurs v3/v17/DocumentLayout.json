@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Kurs v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{326F8928-D12A-4D2B-9F51-EA9D3D4AE738}|TestingProject\\TestingProject.csproj|f:\\kurs v3\\testingproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326F8928-D12A-4D2B-9F51-EA9D3D4AE738}|TestingProject\\TestingProject.csproj|solutionrelative:testingproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD2EF82-D866-4A48-A704-DF6FC175E95D}|Kurs v3\\Kurs v3.csproj|f:\\kurs v3\\kurs v3\\objects\\pages\\add_type\\add_users.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD2EF82-D866-4A48-A704-DF6FC175E95D}|Kurs v3\\Kurs v3.csproj|solutionrelative:kurs v3\\objects\\pages\\add_type\\add_users.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD2EF82-D866-4A48-A704-DF6FC175E95D}|Kurs v3\\Kurs v3.csproj|f:\\kurs v3\\kurs v3\\objects\\pages\\add_type\\add_users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9AD2EF82-D866-4A48-A704-DF6FC175E95D}|Kurs v3\\Kurs v3.csproj|solutionrelative:kurs v3\\objects\\pages\\add_type\\add_users.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\Kurs v3\\TestingProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestingProject\\UnitTest1.cs",
+              "ToolTip": "F:\\Kurs v3\\TestingProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestingProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:14:05.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add_Users.xaml.cs",
+              "DocumentMoniker": "F:\\Kurs v3\\Kurs v3\\Objects\\Pages\\Add_Type\\Add_Users.xaml.cs",
+              "RelativeDocumentMoniker": "Kurs v3\\Objects\\Pages\\Add_Type\\Add_Users.xaml.cs",
+              "ToolTip": "F:\\Kurs v3\\Kurs v3\\Objects\\Pages\\Add_Type\\Add_Users.xaml.cs",
+              "RelativeToolTip": "Kurs v3\\Objects\\Pages\\Add_Type\\Add_Users.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T18:46:58.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add_Users.xaml",
+              "DocumentMoniker": "F:\\Kurs v3\\Kurs v3\\Objects\\Pages\\Add_Type\\Add_Users.xaml",
+              "RelativeDocumentMoniker": "Kurs v3\\Objects\\Pages\\Add_Type\\Add_Users.xaml",
+              "ToolTip": "F:\\Kurs v3\\Kurs v3\\Objects\\Pages\\Add_Type\\Add_Users.xaml",
+              "RelativeToolTip": "Kurs v3\\Objects\\Pages\\Add_Type\\Add_Users.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T18:08:40.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4ZzvIeI3Dnfh1NvHrKreq7yDqNCyg6qPGTD9Cw2y0qbPId6CgDcURkXD8lioiro7NMQOeEpTtp1Y9fKASzlHA==",
+  "success": false,
+  "projectFilePath": "F:\\Kurs v3\\TestingProject\\TestingProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект Kurs v3 несовместим с net8.0 (.NETCoreApp,Version=v8.0). Проект Kurs v3 поддерживает: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Kurs v3",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

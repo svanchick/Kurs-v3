@@ -1,0 +1,836 @@
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.exe
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.dll.config
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.deps.json
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.runtimeconfig.json
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.pdb
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Edit_Page.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Dial.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Display.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Plate.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\MainPage.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Dial_Show.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Display_Show.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Plate_Show.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Windows\Show.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3_MarkupCompile.cache
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3_MarkupCompile.lref
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\App.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Edit_Page.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Dial.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Display.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Plate.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\MainPage.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Dial_Show.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Display_Show.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Plate_Show.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Windows\Show.baml
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.g.resources
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.AssemblyInfo.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.Up2Date
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\refint\Kurs v3.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.pdb
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.genruntimeconfig.cache
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\ref\Kurs v3.dll
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Edit_Page.g.cs
+C:\Users\Max\Desktop\Kurs v3 — копия\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Edit_Page.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.exe
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.dll.config
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.deps.json
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.runtimeconfig.json
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.pdb
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.AssemblyReference.cache
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Edit_Page.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Dial.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Display.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Plate.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Edit_Page.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\MainPage.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Dial_Show.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Display_Show.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Plate_Show.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Windows\Show.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3_MarkupCompile.cache
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3_MarkupCompile.lref
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\App.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Edit_Page.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Dial.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Display.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Plate.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Edit_Page.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\MainPage.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Dial_Show.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Display_Show.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Plate_Show.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Windows\Show.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.g.resources
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.AssemblyInfoInputs.cache
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.AssemblyInfo.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.CoreCompileInputs.cache
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.CopyComplete
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\refint\Kurs v3.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.pdb
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.genruntimeconfig.cache
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\ref\Kurs v3.dll
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Show_Users.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Show_Users.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.exe
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.dll.config
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.deps.json
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.runtimeconfig.json
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.pdb
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Edit_Page.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Dial.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Display.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Plate.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Edit_Page.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\MainPage.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Dial_Show.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Display_Show.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Plate_Show.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Show_Users.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Windows\Show.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3_MarkupCompile.cache
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3_MarkupCompile.lref
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\App.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Edit_Page.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Dial.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Display.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Plate.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Edit_Page.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\MainPage.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Dial_Show.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Display_Show.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Plate_Show.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Show_Users.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Windows\Show.baml
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.g.resources
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.AssemblyInfo.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.Up2Date
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\refint\Kurs v3.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.pdb
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.genruntimeconfig.cache
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\ref\Kurs v3.dll
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\Add_Users.g.cs
+C:\Users\Max\Desktop\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\Add_Users.baml
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\Add_Users.g.cs
+C:\Users\maks2\OneDrive\Рабочий стол\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\Add_Users.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.AssemblyReference.cache
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Edit_Page.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\Add_Users.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Dial.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Display.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Plate.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Edit_Page.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\MainPage.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Dial_Show.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Display_Show.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Plate_Show.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Show_Users.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Windows\Show.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\App.g.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3_MarkupCompile.cache
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3_MarkupCompile.lref
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.dll
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\refint\Kurs v3.dll
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.pdb
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.exe
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.dll.config
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.deps.json
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.runtimeconfig.json
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.pdb
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\App.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Edit_Page.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\Add_Users.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Dial.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Display.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Plate.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Edit_Page.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\MainPage.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Dial_Show.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Display_Show.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Plate_Show.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Show_Users.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Windows\Show.baml
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.g.resources
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.AssemblyInfoInputs.cache
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.AssemblyInfo.cs
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.CoreCompileInputs.cache
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.CopyComplete
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.genruntimeconfig.cache
+D:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\ref\Kurs v3.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.exe
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.dll.config
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.deps.json
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.runtimeconfig.json
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Kurs v3.pdb
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\EntityFramework.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Humanizer.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Kurs v3\Kurs v3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.AssemblyReference.cache
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Edit_Page.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\Add_Users.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Dial.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Display.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Plate.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Edit_Page.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\MainPage.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Dial_Show.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Display_Show.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Plate_Show.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Show_Users.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Windows\Show.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\App.g.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3_MarkupCompile.cache
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3_MarkupCompile.lref
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\App.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\MainWindow.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Edit_Page.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\Add_Users.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Dial.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Display.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Add_Type\New_Plate.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Edit_Page.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\MainPage.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Dial_Show.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Display_Show.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Plate_Show.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Pages\Show_Type\Show_Users.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Objects\Windows\Show.baml
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.g.resources
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.AssemblyInfoInputs.cache
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.AssemblyInfo.cs
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.CoreCompileInputs.cache
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.dll
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\refint\Kurs v3.dll
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.pdb
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.genruntimeconfig.cache
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\ref\Kurs v3.dll
+F:\Kurs v3\Kurs v3\obj\Debug\net8.0-windows\Kurs v3.csproj.CopyComplete

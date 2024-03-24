@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Objects\Pages\Add_Edit_Page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Pages\Add_Type\Add_Users.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Pages\Add_Type\New_Dial.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Pages\Add_Type\New_Display.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Pages\Add_Type\New_Plate.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Pages\Edit_Page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Pages\MainPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Pages\Show_Type\Dial_Show.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Pages\Show_Type\Display_Show.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Pages\Show_Type\Plate_Show.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Pages\Show_Type\Show_Users.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Objects\Windows\Show.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\Add_Edit_Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\Add_Type\Add_Users.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\Add_Type\New_Dial.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\Add_Type\New_Display.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\Add_Type\New_Plate.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\Edit_Page.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\MainPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\Show_Type\Dial_Show.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\Show_Type\Display_Show.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\Show_Type\Plate_Show.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Pages\Show_Type\Show_Users.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Objects\Windows\Show.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
